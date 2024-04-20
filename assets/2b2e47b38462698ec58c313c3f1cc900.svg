@@ -1,0 +1,37 @@
+<svg version="1.1" width="180" height="164.5" viewBox="-0.5 -0.5 180 164.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" x2="1">
+      <stop offset="0" stop-color="#000000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="grad_2" x2="1">
+      <stop offset="0" stop-color="#000000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="grad_3" x2="1">
+      <stop offset="0" stop-color="#000000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+  <linearGradient id="grad_1-.156862735748291,0,0,1,1,-149.5" x2="178" x1="1" y1="0.5" y2="0.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient><linearGradient id="grad_2-.156862735748291,0,0,1,1.5,-87" x2="178.5" x1="1.5" y1="63" y2="63" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient><linearGradient id="grad_3-.156862735748291,0,0,1,0.5,-25" x2="177.5" x1="0.5" y1="125" y2="125" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.9955325317569077" fill="url(#grad_1-.156862735748291,0,0,1,1,-149.5)" stroke="none" d="M 1 0.5 L 178 0.5 L 178 38.5 L 1 38.5 L 1 0.5 Z " stroke-width="1.0812796560934226"/>
+  <text id="ID0.23298473842442036" fill="#FFFFFF" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(0.450607, 0, 0, 0.450607, 62.4012, 11.1982)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">SHIFT 1</tspan></text>
+  <path id="ID0.6291798581369221" fill="none" stroke="#FFFFFF" stroke-width="2" d="M 125 14.5 L 136.5 14.5 L 136.5 23.5 L 125 23.5 L 125 14.5 Z "/>
+  <path id="ID0.9955325317569077" fill="url(#grad_2-.156862735748291,0,0,1,1.5,-87)" stroke="none" d="M 1.5 63 L 178.5 63 L 178.5 101 L 1.5 101 L 1.5 63 Z " stroke-width="1.0812796560934226"/>
+  <text id="ID0.23298473842442036" fill="#FFFFFF" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(0.450607, 0, 0, 0.450607, 62.9012, 73.6982)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">SHIFT 2</tspan></text>
+  <path id="ID0.6291798581369221" fill="none" stroke="#FFFFFF" stroke-width="2" d="M 125.5 77 L 137 77 L 137 86 L 125.5 86 L 125.5 77 Z "/>
+  <g id="ID0.9108000160194933">
+    <path id="ID0.9955325317569077" fill="url(#grad_3-.156862735748291,0,0,1,0.5,-25)" stroke="none" d="M 0.5 125 L 177.5 125 L 177.5 163 L 0.5 163 L 0.5 125 Z " stroke-width="1.0812796560934226"/>
+    <text id="ID0.23298473842442036" fill="#FFFFFF" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(0.450607, 0, 0, 0.450607, 61.9012, 135.698)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">EXTRAS</tspan></text>
+    <path id="ID0.6291798581369221" fill="none" stroke="#FFFFFF" stroke-width="2" d="M 124.5 139 L 136 139 L 136 148 L 124.5 148 L 124.5 139 Z "/>
+  </g>
+</svg>

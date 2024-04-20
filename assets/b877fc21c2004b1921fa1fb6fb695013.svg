@@ -1,0 +1,14 @@
+<svg version="1.1" width="27.634096145629883" height="37.40232467651367" viewBox="0 0 27.634096145629883 37.40232467651367" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <radialGradient id="grad_1" cx="0.47609999999999997" cy="0.47609999999999997" r="0.68107">
+      <stop offset="0" stop-color="#FF0000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#660000" stop-opacity="1"/>
+    </radialGradient>
+  <radialGradient id="grad_1-,0,0,1,-38,-84" cx="10.9981" cy="10.9981" r="14.3025" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FF0000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#660000" stop-opacity="1"/>
+    </radialGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.9985187910497189" fill="url(#grad_1-,0,0,1,-38,-84)" stroke="#FF0000" stroke-width="2" d="M 11.5 1 C 14.397 1 17.022 2.177 18.923 4.077 C 20.823 5.978 22 8.603 22 11.5 C 22 14.397 20.823 17.022 18.923 18.923 C 17.022 20.823 14.397 22 11.5 22 C 8.603 22 5.978 20.823 4.077 18.923 C 2.177 17.022 1 14.397 1 11.5 C 1 8.603 2.177 5.978 4.077 4.077 C 5.978 2.177 8.603 1 11.5 1 Z "/>
+  <text id="ID0.2053047283552587" fill="#FFFFFF" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(0.400379, 0, 0, 0.400379, 1.15076, 23.7989)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">REC . .</tspan></text>
+</svg>

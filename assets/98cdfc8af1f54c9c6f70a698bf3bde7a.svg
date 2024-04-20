@@ -1,0 +1,16 @@
+<svg version="1.1" width="160" height="52.25" viewBox="-0.5 -0.5 160 52.25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" x2="1">
+      <stop offset="0" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="1"/>
+    </linearGradient>
+  <linearGradient id="grad_1-,0,0,1,-321,-161" x2="159" x1="0" y1="0" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="1"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.9759687064215541" fill="url(#grad_1-,0,0,1,-321,-161)" stroke="none" d="M 0 0 L 159 0 L 159 32 L 0 32 L 0 0 Z " stroke-width="1"/>
+  <text id="ID0.859309596940875" fill="#FFFFFF" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(0.6004, 0, 0, 0.6004, 102.201, 8.2488)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">MENU</tspan></text>
+  <path id="ID0.5564187578856945" fill="none" stroke="#FFFFFF" stroke-width="1" d="M 77.75 13.5 L 89.5 13.5 L 89.5 23 L 77.75 23 L 77.75 13.5 Z "/>
+  <path id="ID0.7958941808901727" fill="none" stroke="#FFFFFF" stroke-width="1" d="M 85 51 L 85 51 L 85 51.25 L 85 51.25 L 85 51 Z "/>
+</svg>
